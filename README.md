@@ -18,4 +18,6 @@
 500 non-face images processed  
 600 non-face images processed  
 700 non-face images processed  
-Acurracy: 91.4780292942743 %
+Acurracy: 91.4780292942743 %  
+
+Dataset shared on drive: https://drive.google.com/drive/folders/1Y3zVH3A05DPULCdkyGiwIiAxzcnKwoHZ?usp=sharing
